@@ -26,26 +26,21 @@ Tienda-Online.Sergio/
 ├── login.html 
 ├── registro.html
 ├── formulario.html
-│
-├── tienda/
-│    ├── tienda.html
-│    ├── carrito.html
-│    ├── css/
-│    ├── main.css
-│    ├── cart.css    
-│    ├── js/
-│    ├── script.js
-│    ├── img/
-│    └── (imágenes de productos, iconos, etc.)
+├── tienda.html
+├── carrito.html
 │
 ├── css/
 │   ├── estilos.css
 │   ├── login-user.css
 │   ├── form.css
-│   └── form-registro.css
+│   ├── form-registro.css
+│   ├── main.css
+│   └── cart.css
+│   
 │
 ├── js/
-│   └── password.js
+│   ├── password.js
+│   └── script.js
 │   
 ├── img/
 │   └── (imágenes de productos, iconos, etc.)
