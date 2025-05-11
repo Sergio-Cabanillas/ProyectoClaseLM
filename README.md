@@ -75,7 +75,3 @@ open index.html    # macOS
 
 Desarrollado por **Sergio Cabanillas Rojas**  
 GitHub: [@Sergio-Cabanillas](https://github.com/Sergio-Cabanillas)
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
